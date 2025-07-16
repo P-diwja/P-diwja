@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P-diwja
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web developmwnt.
+- 🌱 I’m currently learning web development.
 - 📫 email:-pdiwja@gmail.com
 
 
